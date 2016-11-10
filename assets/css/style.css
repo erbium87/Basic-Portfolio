@@ -52,7 +52,7 @@ a {
 }
 
 section {
-	background: #ebebeb;
+	background: #fff;
 	width: 630px;
 	padding: 20px 10px 20px 10px;
 	/*height: 500px;
@@ -60,15 +60,15 @@ section {
 	margin-bottom: 20px;*/
 
 }
-
+h2 {
+	color: #4aaaa5;
+}
 aside {
-	background: #ebebeb;
+	background: #fff;
 	width: 230px;
 	padding: 20px;
 	float: right;
-	height: 225px;
-	margin-bottom: 20px;
-
+	
 }
 
 article {
@@ -82,15 +82,19 @@ article {
 
 .pic {
 	float: left;
+	width: 150px;
+	height: 150px;
 }
 
 
 p {
 	color: #777;
 	background: #ebebeb;
-	padding:10px;
+	/*padding:10px;
 	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 10px;*/
+	font-size: 18px;
+	margin: 0;
 
 }
 
